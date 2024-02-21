@@ -87,6 +87,6 @@ int main() {
     cout << "Time taken by program is : " << fixed
          << time_taken << setprecision(9);
     cout << " sec" << endl;
-    system("pause");
+//    system("pause");
     return 0;
 }
